@@ -1,5 +1,5 @@
 const inputBox = document.querySelector("#input-box")
-const listContainer = document.querySelector("#list-conatiner")
+const listContainer = document.querySelector("#list-container")
 
 const addTask = () => {
     if (inputBox.value === " ") {
